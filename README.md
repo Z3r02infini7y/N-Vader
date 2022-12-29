@@ -1,4 +1,4 @@
-# N-Vader
+# N-Vader :- This tool can hack wifi as well as it can forcefully restart a switch.
  Viper script has been tested on raspberry pi 4 having kali/parrot OS. A sample video is also included.
  ## Capabilities:
       (1) Mac Flooding.

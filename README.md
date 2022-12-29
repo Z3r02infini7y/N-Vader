@@ -11,7 +11,7 @@
       (3) gnome-terminal
       (4) netdiscover
       (5) fluxion along with its dependencies
- ## Commands to install the Required tools(for debian):
+ ## Commands to install the required tools(for debian):
       To install dsniff:
        sudo apt-get install dsniff
       To install gnome-terminal:

@@ -23,3 +23,5 @@
       To install aircrack-ng:
        sudo apt-get install aircrack-ng
    ### NOTE: airmon-ng, airodump-ng, aireplay-ng comes with aircrack-ng package.
+   Solution to solve each time new terminal window asking for root user's password:
+   https://vitux.com/always-launch-terminal-as-root-user-sudo-in-ubuntu/

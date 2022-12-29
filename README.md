@@ -1,5 +1,5 @@
 # N-Vader
- Viper script has been tested on raspberry pi 4 having kali/parrot OS. 
+ Viper script has been tested on raspberry pi 4 having kali/parrot OS. A sample video is also included.
  ## Capabilities:
       (1) Mac Flooding.
       (2) Wifi Jamming.

@@ -1,5 +1,5 @@
-# N-Vader :- A project made to hack wifi and forcefully restart a switch.
- Viper script has been tested on raspberry pi 4 having kali/parrot OS. A sample video is also included.
+# N-Vader :- N-Vader is a Wi-Fi hacking and network manipulation tool designed for ethical testing purposes. It includes features like Mac Flooding, Wifi Jamming, Wifi Key Grappling, Wifi Key Decipher, and Captive Portal Attack. The Viper script has been tested on Raspberry Pi 4 running Kali/Parrot OS. A sample video is also attached.
+ 
  ## Capabilities:
       (1) Mac Flooding.
       (2) Wifi Jamming.
